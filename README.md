@@ -42,7 +42,7 @@ To easily and quickly provide an overview of the data, please read the following
     3. Are there better techniques to control outbreaks?
     4. Are there certain communittes which are more severely affected by the virus?
  - **How the data was collected**
-  - Data was collected from various digital sources and put together by:
+    - Data was collected from various digital sources and put together by:
     1. [SRK](https://www.kaggle.com/sudalairajkumar)
     2. [Devakumar Kp](https://www.kaggle.com/imdevskp)
 
