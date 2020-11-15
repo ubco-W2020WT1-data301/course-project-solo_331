@@ -32,7 +32,7 @@ To easily and quickly provide an overview of the data, please read the following
   - Number of hospital beds in each state in present.
   
 - **Data Collection Dates**
-  - 31 March - Oct0ber 6, 2020
+  - 31 March - October 6, 2020
   
 - **Why?**
   - The purpose of the dataset if to allow Data Analysts to find trends in the data and use to see how the Indian Government can take better actions to control the outbreak of the virus. 
