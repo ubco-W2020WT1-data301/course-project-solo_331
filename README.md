@@ -1,12 +1,8 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=314616&assignment_repo_type=GroupAssignmentRepo)
 # Solo 331 - COVID-19 Response in India: An Analysis 
 
-- Your title can change over time.
-
-## Milestones
-
-1. Select an appropriate dataset and load in your data.
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+# Dashboard Presentation
+[Video](https://drive.google.com/file/d/1tAZh8r1yuEaYxiCRJOQ5yrlhIScu_Ty0/view?usp=sharing)
 
 ## Description of Dataset and my Interests in it
 
